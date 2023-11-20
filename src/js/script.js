@@ -80,16 +80,6 @@ async function main() {
 }
 
 main();
-// async function main() {
-//   const peliculas = await obtenerListaDePeliculas('acción', 1);
 
-//   if (peliculas) {
-//     for (const pelicula of peliculas) {
-//       console.log(pelicula);
-//     }
-//   }
-// }
-
-main();
 
 
